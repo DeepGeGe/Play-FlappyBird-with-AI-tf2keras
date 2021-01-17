@@ -6,3 +6,7 @@
 
 此外，我在尝试将整个项目使用pyinstaller打包成一个.exe文件，但是总会有这样那样的问题，用了一个周末的时间也没能搞定。
 如果有成功将整个项目打包成一个.exe的小伙伴，欢迎留言。
+
+![image](https://github.com/DeepGeGe/Play-FlappyBird-with-AI-tf2keras/blob/main/1.png)
+![image](https://github.com/DeepGeGe/Play-FlappyBird-with-AI-tf2keras/blob/main/2.png)
+![image](https://github.com/DeepGeGe/Play-FlappyBird-with-AI-tf2keras/blob/main/3.png)
