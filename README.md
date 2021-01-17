@@ -3,4 +3,7 @@
 
 代码参见master分支。就是将上面的main改成master。
 
+![image](https://github.com/DeepGeGe/Play-FlappyBird-with-AI-tf2keras/blob/main/1.png)
+![image](https://github.com/DeepGeGe/Play-FlappyBird-with-AI-tf2keras/blob/main/2.png)
+![image](https://github.com/DeepGeGe/Play-FlappyBird-with-AI-tf2keras/blob/main/3.png)
 
