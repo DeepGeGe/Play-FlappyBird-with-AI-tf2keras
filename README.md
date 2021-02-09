@@ -9,7 +9,8 @@
 
 (2021年1月18日记录：playGame.py文件中的在屏幕上绘制文字应该用函数封装起来，后面直接调用。不会去修改，但是记录一下。)
 
-(2021年2月9日：成功将该游戏用pyinstaller打包成一个.exe文件，可在任意windows操作系统电脑上运行。)
+(2021年2月9日：成功将该游戏用pyinstaller打包成一个.exe文件，可在任意windows操作系统电脑上运行。
+下载地址：https://pan.baidu.com/s/1BypiVi3Bu09lXMY-c9n7Sw 提取码：5hux)
 
 ![image](https://github.com/DeepGeGe/Play-FlappyBird-with-AI-tf2keras/blob/main/1.png)
 ![image](https://github.com/DeepGeGe/Play-FlappyBird-with-AI-tf2keras/blob/main/2.png)
